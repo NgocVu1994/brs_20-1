@@ -2,6 +2,7 @@ role:
   admin: "admin"
   user: "user"
 books:
-	page: 10
-	picture_width: 150
-	picture_height: 150
+  page: 15
+  picture_width: 150
+  picture_height: 150
+  url: "/assets/anh1.jpg"
