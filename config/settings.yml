@@ -1,3 +1,7 @@
 role:
   admin: "admin"
   user: "user"
+books:
+	page: 10
+	picture_width: 150
+	picture_height: 150
