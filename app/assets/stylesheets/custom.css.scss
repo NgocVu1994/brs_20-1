@@ -1,5 +1,6 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "social-share-button";
 
 /* mixins, variables, etc. */
 
@@ -243,7 +244,7 @@ footer {
       border-color: #46b8da;
     }
   }
-  
+
   .btn-marked-favorite{
     display: inline;
     input{

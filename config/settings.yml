@@ -30,6 +30,7 @@ activity:
     favorite:
       content: "marked favorite a book "
 users:
+  size: 70
   users_per_page: 15
 favorite:
   limit: 10
